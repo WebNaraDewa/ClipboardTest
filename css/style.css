@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    font-size: 1.5em;
+    margin-bottom: 30px;
+}
+
+.img img {
+    width: 60vw;
+    height: auto;
+}
+
+.referrer {
+    margin-bottom: 15px;
+}
